@@ -1,5 +1,7 @@
 # 🎃 Responsive Halloween Website
 ## [Watch it on youtube](https://youtu.be/TBEOARNn2Gc)
+
+[Assets Halloween](https://iconscout.com/all-assets/halloween)
 ### 🎃 Responsive Halloween Website
 
 - Responsive Halloween Website Design Using HTML CSS & JavaScript
